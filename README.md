@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+This is a test with GitHub. I like to develop with Angular2!
+
